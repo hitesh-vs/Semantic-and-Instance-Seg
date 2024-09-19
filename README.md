@@ -1,4 +1,4 @@
-# RBE595_P2
+# Work done as an assignment for the course RBE595_P2 - Deep Learning For Perception
 
 * The folder part1 contains the Blender file along with the script used for Data Generation.<br>
 * The folder part2 contains the test.py file used for semantic segmentation. Running this would give the video result in output folder.<br>
