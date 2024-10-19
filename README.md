@@ -7,3 +7,4 @@
 * The video results of semantic and instance segmentation are part2.mp4 and part3.mp4 respectively.
 
 * Model checkpoint - [Model-weight-file-link](https://wpi0-my.sharepoint.com/:u:/g/personal/dsingh1_wpi_edu/EccpHgzfMLdKqnBnWPTfFX4BKMDkHl8H8sbiza_opAxJMg?e=lpzhzY)
+* This work is done as a part of a group project along with Deepak Singh (https://github.com/deepak-1530) and Samuel Markwick 
